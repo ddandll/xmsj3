@@ -44,9 +44,11 @@
     10. 验证安装结果。可选以下任意方法：
 
     ① “开始 → Anaconda3（64-bit）→ Anaconda Navigator”，若可以成功启动Anaconda Navigator则说明安装成功。
+    
     https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana1.png
 
     ② “开始 → Anaconda3（64-bit）→ 右键点击Anaconda Prompt → 以管理员身份运行”，在Anaconda Prompt中输入 conda list ，可以查看已经安装的包名和版本号。若结果可以正常显示，则说明安装成功。
+    
     https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana2.png
     
 
@@ -54,7 +56,7 @@
 ## 三. 使用Anaconda Navigator启动Notebook
 
 ### 1. 启动Anaconda Navigator导航界面，并从导航界面启动Jupyter Notebook。
-                 https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/anaconda%20navigator.png
+https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/anaconda%20navigator.png
 https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/jupyte.png
 
 

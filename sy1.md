@@ -8,7 +8,7 @@
     3. 完成安装
     4. 打开并尝试运行
     如下图成功：
-   https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/andriod%20studio.png
+   ![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/andriod%20studio.png?raw=true)
    
 
 ## 二.  安装Jupyter Notebook（安装Anaconda）
@@ -45,19 +45,19 @@
 
     ① “开始 → Anaconda3（64-bit）→ Anaconda Navigator”，若可以成功启动Anaconda Navigator则说明安装成功。
     
-    https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana1.png
+    ![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana1.png?raw=true)
 
     ② “开始 → Anaconda3（64-bit）→ 右键点击Anaconda Prompt → 以管理员身份运行”，在Anaconda Prompt中输入 conda list ，可以查看已经安装的包名和版本号。若结果可以正常显示，则说明安装成功。
     
-    https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana2.png
+    ![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana2.png?raw=true)
     
 
 
 ## 三. 使用Anaconda Navigator启动Notebook
 
 ### 1. 启动Anaconda Navigator导航界面，并从导航界面启动Jupyter Notebook。
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/anaconda%20navigator.png
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/jupyte.png
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/anaconda%20navigator.png?raw=true)
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/jupyte.png?raw=true)
 
 
 ### 2. Notebook启动之后，默认的Files列出了用户文件夹的项目，那么如何更改默认加载的目录呢？
@@ -70,8 +70,8 @@ https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/jupyte.png
 
 然后就可以看到配置文件生成的目录了
 
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%801.png
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%804.png
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%801.png?raw=true)
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%804.png?raw=true)
 
 2. 打开生成的配置文件:
 
@@ -81,17 +81,16 @@ https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B
 
 删除前面的 # 号，在后面的单引号里输入要设置的目录路径，保存关闭。
 
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%805.png
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%805.png?raw=true)
 
 3. 在win开始菜单中找到jupyter notebook快捷图标，更多>>打开文件位置>>鼠标右键点击Jupyter Notebook (Anaconda3)>>属性
 删除最后面的 “%USERPROFILE%/” 点击确定
 
 
 4.再次打开jupyter-notebook发现工作目录已经变成刚才设定的工作目录了。
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%802.png
+https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%802.png?raw=true
 
 ### 3. 新建一个Notebook（Python 3），查看界面布局，并尝试写一些文本和代码。
 
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA1.png
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA1.png?raw=true
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA2.png
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA1.png?raw=true)
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA2.png?raw=true)

@@ -13,6 +13,7 @@
 
 ## 二.  安装Jupyter Notebook（安装Anaconda）
 
+
     1. 前往官方下载页面下载。有两个版本可供选择：Python 3.6 和 Python 2.7，选择版之后根据自己操作系统的情况点击“64-Bit Graphical Installer”或“32-Bit Graphical Installer”进行下载。
 
     2. 完成下载之后，双击下载文件，启动安装程序。
@@ -45,11 +46,12 @@
 
     ① “开始 → Anaconda3（64-bit）→ Anaconda Navigator”，若可以成功启动Anaconda Navigator则说明安装成功。
     
-    ![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana1.png?raw=true)
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana1.png?raw=true)
 
     ② “开始 → Anaconda3（64-bit）→ 右键点击Anaconda Prompt → 以管理员身份运行”，在Anaconda Prompt中输入 conda list ，可以查看已经安装的包名和版本号。若结果可以正常显示，则说明安装成功。
     
-    ![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana2.png?raw=true)
+    
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/ana2.png?raw=true)
     
 
 

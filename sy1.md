@@ -88,7 +88,7 @@
 
 
 4.再次打开jupyter-notebook发现工作目录已经变成刚才设定的工作目录了。
-https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%802.png?raw=true
+![](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B0%E5%9D%802.png?raw=true)
 
 ### 3. 新建一个Notebook（Python 3），查看界面布局，并尝试写一些文本和代码。
 

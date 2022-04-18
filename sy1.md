@@ -93,4 +93,5 @@ https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E6%94%B9%E5%9C%B
 ### 3. 新建一个Notebook（Python 3），查看界面布局，并尝试写一些文本和代码。
 
 https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA1.png
+https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA1.png?raw=true
 https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C1/%E5%88%9B%E5%BB%BA2.png

@@ -388,7 +388,7 @@ bin_sizes, _, _ = plt.hist(df.year[non_numberic_profits], bins=range(1955, 2006)
 
 
     
-![png](output_30_0.png)
+![png](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C4/output_30_0.png?raw=true)
     
 
 
@@ -462,7 +462,7 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 
 
     
-![png](output_42_0.png)
+![png](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C4/output_42_0.png?raw=true)
     
 
 
@@ -477,7 +477,7 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 
 
     
-![png](output_44_0.png)
+![png](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C4/output_44_0.png?raw=true)
     
 
 
@@ -500,7 +500,7 @@ fig.tight_layout()
 
 
     
-![png](output_46_0.png)
+![png](https://github.com/ddandll/xmsj3/blob/main/%E5%AE%9E%E9%AA%8C4/output_46_0.png?raw=true)
     
 
 
